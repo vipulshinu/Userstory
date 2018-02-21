@@ -1,0 +1,6 @@
+Id;Street;Town;County;Postcode
+1;19 West Close;Shefford;West Sussex;WE24 8ST
+2;140 Great Square;Slough;Cornwall;CO43 3RN
+3;178 North Close;Biggleswade;Hereford and Worcester;HE91 7RE
+4;89 Windsor Street;Warrington;Gloucestershire;GL38 5OU
+5;153 Dee Avenue;Shefford;County Down;CO63 5UN
